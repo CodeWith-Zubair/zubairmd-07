@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zubairmd-07
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning python
 
 <!---
 zubairmd-07/zubairmd-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
